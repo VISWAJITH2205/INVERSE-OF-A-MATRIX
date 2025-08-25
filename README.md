@@ -26,7 +26,7 @@ print(A_inv)
 ```
 ## Output:
 
-<img width="319" height="155" alt="Screenshot 2025-08-21 094309" src="https://github.com/user-attachments/assets/8c09e8fb-80ab-46e9-b5e7-2e05f16298ff" />
+<img width="468" height="771" alt="Screenshot 2025-08-25 211716" src="https://github.com/user-attachments/assets/6df70fde-9bcf-4ee0-93eb-695a77e74742" />
 
 
 ## Result:
